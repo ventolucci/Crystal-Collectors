@@ -1,0 +1,21 @@
+body {
+    background: url("https://cdn130.picsart.com/234534595028202.gif?r480x480");
+    background-size: cover;
+}
+
+
+.crystal-image {
+    width: 75px;
+    height: 75px;
+}
+
+.container {
+    background: silver;
+    padding-left: 40px;
+    width: 54%;
+    margin-top: 55px;
+    opacity: .9;
+    border-radius: 25px;
+    
+
+}
